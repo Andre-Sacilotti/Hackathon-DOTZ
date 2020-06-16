@@ -50,7 +50,7 @@ epochs, batch_size = 128]
 
 ## How to use
 
-Before anything you need to download the models file, which has arround 2GB, in this <a href = ''>Link</a>
+Before anything you need to download the models file, which has arround 2GB, in this <a href = ''>Link</a> (i will update soon)
 
 Here you can find the ipython notebook where it can run each stage, but you can also execute the python script, following the commands
 
