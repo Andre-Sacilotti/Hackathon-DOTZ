@@ -4,7 +4,7 @@ This hackathon gives an dataset with title of the product, and their respective 
 
 Public Leaderboard: Third Place
 
-Final Leaderboard: *Waiting*
+Final Leaderboard: Third Place (YEY!)
 
 ## Summary
 
@@ -50,7 +50,7 @@ epochs, batch_size = 128]
 
 ## How to use
 
-Before anything you need to download the models file, which has arround 2GB, in this <a href = ''>Link</a> (i will update soon)
+Before anything you need to download the models file, which has arround 2GB, in this <a href = 'https://drive.google.com/drive/folders/1LLSmfEiPA9gixcZwSpi9Mz2yUN3UQigT?usp=sharing'>Link</a> (i will update soon)
 
 Here you can find the ipython notebook where it can run each stage, but you can also execute the python script, following the commands
 
